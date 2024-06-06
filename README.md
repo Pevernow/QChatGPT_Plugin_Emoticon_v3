@@ -1,6 +1,10 @@
 # QChatGPT Plugin Emoticon v3
 QChatGPT v3可用，基于在线api的表情包插件。
 
+## 效果图
+![示例图片](https://github.com/Pevernow/QChatGPT_Plugin_Emoticon_v3/assets/29888010/0b950881-3638-4bd6-8c28-52c91784eca1)
+
+
 ## API获取
 
 使用的api截止2024/6/6是免费的
@@ -35,3 +39,4 @@ self.token = 'YOURTOKEN'  # 请将这里的'YOUR_TOKEN'替换为你实际获取�
 ## 关于Fork
 
 本项目几乎重写了90%以上的代码了，约等于重头写起，就不用Fork了。
+
