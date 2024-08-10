@@ -9,7 +9,7 @@ QChatGPT v3可用，基于在线api的表情包插件。
 
 使用的api目前是是免费的
 
-前往https://www.alapi.cn/注册
+前往https://www.alapi.cn/ 注册
 
 在控制面板左侧——接口管理——更新Token密钥，点击Copy复制Token
 
