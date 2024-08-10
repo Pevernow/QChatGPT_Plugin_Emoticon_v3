@@ -7,7 +7,7 @@ QChatGPT v3可用，基于在线api的表情包插件。
 
 ## API获取
 
-使用的api截止2024/6/6是免费的
+使用的api目前是是免费的
 
 前往https://www.alapi.cn/注册
 
