@@ -8,7 +8,7 @@ import re
 
 
 # 注册插件
-@register(name="emoticon", description="表情包表达式转换", version="0.1", author="chordfish-k")
+@register(name="emoticon", description="在线智能表情包插件", version="1.0", author="Pevernow")
 class HelloPlugin(BasePlugin):
 
     def __init__(self, host: APIHost):
